@@ -17,9 +17,17 @@ body {
     background:#302D43;
     max-width: 280px;  
 }
+nav{
+    padding-top:100px;
+}
 nav a{
     display: block;
+    color: wheat;
+    text-decoration: none;
+    padding: 15px 30px 15px 30px;
 }
 nav a:active{
     background: #302D43;
+    border-left: 5px solid #92CF48;
+    padding: 15px 30px;
 }
