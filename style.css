@@ -15,4 +15,11 @@ body {
 }
 #sideMenu{
     background:#302D43;
+    max-width: 280px;  
+}
+nav a{
+    display: block;
+}
+nav a:active{
+    background: #302D43;
 }
