@@ -4,5 +4,15 @@
 * neon green:#92CF48;
 * light grey:#F4F6F9;
 * dark grey:#EAEDF3;
-
 */
+
+* {
+ box-sizing:border-box;
+}
+body {
+  font-family: "Roboto",sans-serif;
+  background: #F4F6F9;
+}
+#sideMenu{
+    background:#302D43;
+}
