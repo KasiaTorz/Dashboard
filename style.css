@@ -35,5 +35,8 @@ nav a:active{
 .far, .fas{
     color:#92CF48;
     font-size:1.4rem;
+    margin-right: 0.8rem;
+    display: inline-block;
+    width: 30px;
 
 }
