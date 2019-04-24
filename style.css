@@ -62,3 +62,14 @@ header{
     padding:20px;
     margin-left:280px;
 }
+.search-area .fas{
+    color: #EAEDF3;
+}
+input{
+    background: transparent;
+    border:none;
+    font-size: 1.3rem;
+    color:#92CF48;
+    padding: 10px;
+    font-weight: 100;
+}
