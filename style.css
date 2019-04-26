@@ -43,9 +43,7 @@ nav a:active{
     border-left: 5px solid #92CF48;
     padding: 15px 30px;
 }
-a{
-    color:#EAEDF3;
-}
+
 .far, .fas{
     color:#92CF48;
     font-size:1.4rem;
@@ -73,9 +71,9 @@ header{
 .search-area .fas{
     color: #EAEDF3;
 }
-input{
-    background: transparent;
-    border:none;
+input [type="text"]{
+    background:transparent;
+    border:5px gold;
     font-size: 1.3rem;
     color:#92CF48;
     padding: 10px;
@@ -94,6 +92,7 @@ input{
     height: 30px;
 }
 .circle{
+    color: #EAEDF3;
     display:inline-block;
     width: 12px;
     height: 12px;
@@ -106,6 +105,8 @@ input{
     top: 3px;
     left: 7px;
 }
+
+
  a.notification{
     position: relative;
     font-size: 20px;
