@@ -76,13 +76,13 @@ header{
     color: #EAEDF3;
 }
 input [type="text"]{
-    background:transparent;
+    background:#fff;
     border:5px gold;
     font-size: 1.3rem;
     color:#92CF48;
     padding: 10px;
     font-weight: 100;
-    width: 50%;
+    width: 80%;
     transition: all 0.5s ease-in-out;
 }
 input [type="text"]:hover{
@@ -92,7 +92,7 @@ input [type="text"]:hover{
 .user-area{
     display: inline-block;
     float:right;
-    padding: 10px;
+    padding:0px;
 }
 .user-area a{
     display:inline-block;
