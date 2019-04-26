@@ -68,6 +68,10 @@ header{
     padding:10px;
     margin-left:280px;
 }
+.search-area{
+    display: inline-block;
+    width: 50%;
+}
 .search-area .fas{
     color: #EAEDF3;
 }
@@ -79,6 +83,7 @@ input [type="text"]{
     padding: 10px;
     font-weight: 100;
     width: 50%;
+    transition: all 0.5s ease-in-out;
 }
 input [type="text"]:hover{
     background: grey lightgray;
