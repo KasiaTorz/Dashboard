@@ -60,6 +60,8 @@ nav a:active{
 }
 .fas fa-arrow-down{
     margin-top: 5px;
+    position: relative;
+
 }
 header{
     padding:10px;
@@ -126,5 +128,5 @@ a.add{
      height: 30px;
      display: inline-block;
      border-radius: 50%;
-     vertical-align: top;
+     margin-right: 10px;
 }
