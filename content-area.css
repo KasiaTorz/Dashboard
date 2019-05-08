@@ -33,6 +33,12 @@
   display: inline-block;
   background: yellow;
 }
+.col-md-9{
+    width: ;
+    padding: 0 15px;
+    display: inline-block;
+    background: rosybrown;
+}
 .cards .user-img{
      background:no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -60,6 +66,7 @@
 }
 .education{
     font-size:0.8rem;
+    display: inline-block;
 
 }
 .schools{
