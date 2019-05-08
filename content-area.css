@@ -23,6 +23,14 @@
 }
 .col-md-4{
     padding: 0 15px;
+    display: inline-block;
+    background: pink;
+}
+.col-md-3{
+  width: 25%;
+  padding: 0 15px;
+  display: inline-block;
+  background: yellow;
 }
 .cards .user-img{
      background:no-repeat center center fixed; 
@@ -36,5 +44,16 @@
      margin: 0 auto;
 }
 .user-name{
-    
+    font-size:1rem;
+    color:purple;
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+
+}
+.user-title{
+    display:block;
+    font-size:0.8rem;
+    text-align: center;
+    margin:10px 0;
 }
