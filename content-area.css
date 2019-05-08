@@ -6,10 +6,20 @@
     color:purple;
     font-size:1.4rem;
     font-weight: 400;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .heading p{
     color:grey;
     font-size:0.8rem;
+    margin-bottom: 10px;
+}
+
+.card{
+    background: aqua;
+    border-radius: 5px;
+
+}
+.col-md-4{
+    padding: 0 15px;
 }
