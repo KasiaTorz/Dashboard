@@ -22,6 +22,10 @@
     overflow:auto; 
 
 }
+.cards{
+    overflow: auto;
+    margin-bottom: 15px;
+}
 .col-md-4{
     width: 33%;
     padding: 0 15px;
@@ -74,4 +78,20 @@
 }
 .schools{
     font-size:0.8rem;
+}
+h6{
+    font-size:0.7rem;
+}
+.date{
+    font-size: 1.3rem;
+    display:block;
+    border-left: 5px solid green;
+    position: relative;
+    left: -15px;
+    padding:5px 15px;
+    margin:20px 0;
+}
+.job-type{
+    display: block;
+    margin-left: 11px;
 }
