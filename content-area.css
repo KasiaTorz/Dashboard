@@ -18,7 +18,8 @@
 .card{
     background: aqua;
     border-radius: 5px;
-    padding: 20px;
+    padding: 0px;
+    overflow:auto; 
 
 }
 .col-md-4{
@@ -32,12 +33,14 @@
   padding: 0 15px;
   display: inline-block;
   background: yellow;
+  float: left;
 }
 .col-md-9{
     width: ;
     padding: 0 15px;
     display: inline-block;
     background: rosybrown;
+    float:left;
 }
 .cards .user-img{
      background:no-repeat center center fixed; 
