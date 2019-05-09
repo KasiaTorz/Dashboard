@@ -33,14 +33,13 @@
   padding: 0 15px;
   display: inline-block;
   background: yellow;
-  float: left;
+  
 }
 .col-md-9{
-    width: ;
+    widows: 10%;
     padding: 0 15px;
     display: inline-block;
     background: rosybrown;
-    float:left;
 }
 .cards .user-img{
      background:no-repeat center center fixed; 
@@ -70,6 +69,7 @@
 .education{
     font-size:0.8rem;
     display: inline-block;
+    color: gray;
 
 }
 .schools{
