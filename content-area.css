@@ -108,10 +108,12 @@ h6{
 .location{
 font-size: 0.8rem;
 font-weight: 300;
+display:block;
 
 
 }
 .position{
     font-size: 0.8rem;
-    font-weight: 300;
+    font-weight: 500;
+    display:block;
 }
