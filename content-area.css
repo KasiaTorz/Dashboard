@@ -104,5 +104,14 @@ h6{
     display:inline-block;
     border-radius: 50%;
     vertical-align: middle;
+}
+.location{
+font-size: 0.8rem;
+font-weight: 300;
 
+
+}
+.position{
+    font-size: 0.8rem;
+    font-weight: 300;
 }
