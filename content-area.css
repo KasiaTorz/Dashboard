@@ -130,3 +130,10 @@ display:block;
     font-weight: 500;
     display:block;
 }
+.time{
+    font-size: 0.8rem;
+    font-weight: 300;
+    display:block;
+    color:grey ;
+}
+
