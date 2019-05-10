@@ -26,6 +26,13 @@
     overflow: auto;
     margin-bottom: 15px;
 }
+
+.col-md-2{
+    width: 50%;
+    padding: 0 15px;
+    display: inline-block;
+    background: pink;
+}
 .col-md-4{
     width: 33%;
     padding: 0 15px;
@@ -44,6 +51,12 @@
     padding: 0 15px;
     display: inline-block;
     background: rosybrown;
+}
+.col-md-10{
+    widows: 10%;
+    padding: 0 15px;
+    display: inline-block;
+    background:yellowgreen;
 }
 .cards .user-img{
      background:no-repeat center center fixed; 
