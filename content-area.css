@@ -1,9 +1,17 @@
+
+/*COLOR SCHEME
+*pictoral carmen:#C4004A;
+*light sea green:#218FA3;
+*purple taupe:#494445;
+*silver chalice:#B5BOA9;
+*white:#FFFFFF;
+*/
 #content-area{
     margin-left: 420px;
     padding: 15px;
 }
 .heading h1{
-    color:purple;
+    color:#C4004A;
     font-size:1.4rem;
     font-weight: 400;
     margin-bottom: 10px;
@@ -126,6 +134,8 @@ margin-bottom: 0.5rem;
 
 
 }
+
+
 .position{
     font-size: 0.8rem;
     font-weight: 500;
