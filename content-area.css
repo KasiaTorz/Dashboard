@@ -3,7 +3,7 @@
 *pictoral carmen:#C4004A;
 *light sea green:#218FA3;
 *purple taupe:#494445;
-*silver chalice:#B5BOA9;
+*silver chalice:#b5b0a9;
 *white:#FFFFFF;
 
 dark background: grey dark:#EAEDF3;
@@ -15,6 +15,7 @@ light font 2:#A5ADBA;
 #content-area{
     margin-left: 420px;
     padding: 15px;
+    background:#b5b0a9; 
 }
 .heading h1{
     color:#C4004A;
