@@ -4,7 +4,7 @@
 *light sea green:#218FA3;
 *purple taupe:#494445;
 *silver chalice:#b5b0a9;
-*white:#FFFFFF;
+*white:e8e8e8;
 
 dark background: grey dark:#EAEDF3;
 dark font: grey dark font: #6C7882;
@@ -52,7 +52,7 @@ light font 2:#A5ADBA;
     width: 33%;
     padding: 0 15px;
     display: inline-block;
-    background: #FFFFFF;
+    background:#e8e8e8;
 }
 .col-md-3{
   width: 25%;
