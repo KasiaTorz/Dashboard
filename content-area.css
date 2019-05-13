@@ -53,12 +53,14 @@ light font 2:#A5ADBA;
     padding: 0 15px;
     display: inline-block;
     background:#e8e8e8;
+    border-radius: 5%;
 }
 .col-md-3{
   width: 25%;
   padding: 0 15px;
   display: inline-block;
   background:#e8e8e8;
+  border-radius: 5%;
   
 }
 .col-md-9{
