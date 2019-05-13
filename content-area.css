@@ -52,7 +52,7 @@ light font 2:#A5ADBA;
     width: 33%;
     padding: 0 15px;
     display: inline-block;
-    background: pink;
+    background: #FFFFFF;
 }
 .col-md-3{
   width: 25%;
@@ -152,6 +152,6 @@ margin-bottom: 0.5rem;
     font-size: 0.8rem;
     font-weight: 300;
     display:block;
-    color:grey ;
+    color:#494445 ;
 }
 
