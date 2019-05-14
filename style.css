@@ -95,7 +95,7 @@ input:active,input:focus, textarea:focus{
 }
 .user-area{
     display: inline-block;
-    float:right;
+    float: right;
     padding:0px;
 }
 .user-area a{
