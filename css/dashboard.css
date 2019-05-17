@@ -81,3 +81,6 @@ body{
   .navbar .navbar-link:hover {
     color: #ffffff;
   }
+  .btn {
+      color: blue;
+  }
