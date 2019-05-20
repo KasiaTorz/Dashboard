@@ -21,7 +21,7 @@ body{
 .navbar-nav, .nav-item, .nav-link, .navbar-brand{
     padding-top:-5px;
     padding-bottom: 0;
-    height: 33px;;
+    height: 33px;
 }
 .navbar {
     background-color: #c4004a;
@@ -86,4 +86,5 @@ body{
   }
   .main-color-bg{
     background-color: #c4004a;
+    border-color: #dc3545;
   }
