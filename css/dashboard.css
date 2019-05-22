@@ -89,3 +89,9 @@ body{
     border-color: #dc3545;
     color:#ffffff;
   }
+  .container{
+      max-width: 720px;
+      height: 300px;
+      margin-top: 40px;
+    
+  }
