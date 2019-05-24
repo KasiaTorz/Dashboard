@@ -92,6 +92,7 @@ body{
   .container{
       max-width: 720px;
       height: 300px;
-      margin-top: 40px;
+      padding-top: 65px;
+      padding-right:90px;
     
   }
