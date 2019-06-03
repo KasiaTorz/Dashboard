@@ -115,3 +115,9 @@ body{
   #header .fas{
     padding-left:100px;
   }
+
+  /* BREADCRUMB*/
+  .breadcrumb{
+    background:#b0b2b4;
+    color:#525353; 
+  }
