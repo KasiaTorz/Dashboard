@@ -124,3 +124,8 @@ body{
   .breadcrumb a{
     color:#525353;
   }
+   a .main-color-bg{
+    background-color: #c4004a;
+    border-color: #dc3545;
+    color:#ffffff;
+  }
