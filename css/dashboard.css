@@ -130,4 +130,18 @@ body{
     color:#ffffff;
   }
 
+
+  /* SECTION MAIN*/
+
+   .well{
+      background-color:#f4f7fa;
+      border: 0 solid #e5e8ea;
+      border-radius: 0;
+      text-align: center;
+      padding-top: 20px;
+   }
   /* Progress bar */
+  .progress-bar{
+    background-color: #b0b2b4;
+    color: #525353;
+  }
