@@ -132,10 +132,12 @@ body{
 
 
   /* SECTION MAIN*/
-
+   .list-group{
+     padding-bottom:15px;
+   }
    .well{
       background-color:#f4f7fa;
-      border: 0 solid #e5e8ea;
+      border: 2 solid #e5e8ea;
       border-radius: 0;
       text-align: center;
       padding-top: 20px;
