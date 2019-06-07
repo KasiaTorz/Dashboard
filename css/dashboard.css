@@ -159,10 +159,11 @@ body{
     box-sizing: border-box;
     width: 100px;
     height: 52px;
-
   }
   .count-title{
     font-size: 1.5 em;
+    border: 1px solid #525353;
+    border-radius: 2px;
   }
   .count-title span{
     font-size:0.8em;
