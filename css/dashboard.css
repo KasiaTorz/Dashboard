@@ -147,7 +147,32 @@ body{
     background-color: #b0b2b4;
     color: #525353;
   }
-  
+  .dashboard-counts strong{
+    font-size:0.9 em;
+    font-weight:500;
+    color:#525353;
+    display:block;
+  }
+  .count-title{
+    font-size: 1.5 em;
+  }
+  .far{
+    display: inline-block;
+    font-style:normal;
+    text-rendering: auto;
+    line-height: 1;
+    box-sizing: border-box;
+    margin-left:15px;
+    padding-left: 15px;
+
+  }
+  .text-uppercase{
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    margin-left:15px;
+
+  }
 
 
 
