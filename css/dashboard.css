@@ -153,6 +153,11 @@ body{
     color:#525353;
     display:block;
   }
+  .count-number{
+    font-size: 2.2.em;
+    
+
+  }
   .count-title{
     font-size: 1.5 em;
   }
