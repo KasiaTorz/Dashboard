@@ -155,7 +155,10 @@ body{
   }
   .count-number{
     font-size: 2.2.em;
-    
+    font-weight: 300;
+    box-sizing: border-box;
+    width: 100px;
+    height: 52px;
 
   }
   .count-title{
