@@ -195,6 +195,11 @@ body{
     padding-left: 15px;
     padding-top:30px;
   }
+  .card-to-do{
+    padding: 30px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    height: 100%;
+  }
 
 
 
