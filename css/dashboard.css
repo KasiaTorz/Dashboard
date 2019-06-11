@@ -208,6 +208,15 @@ body{
     word-wrap: break-word;
     box-sizing: border-box;
   }
+  .p-to-do{
+    columns: #888888;
+    font-size:0.75 rem;
+    font-weight: 400;
+    margin-top: 2px;
+    margin-bottom: 1 rem;
+    box-sizing: border-box;
+    text-align: left;
+  }
 
 
 
