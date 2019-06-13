@@ -190,6 +190,7 @@ body{
   /* css list to do*/
   .display{
     margin-left: 10px;
+    font-size:20px;
   }
   .list-to-do{
     position: relative;
