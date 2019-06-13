@@ -218,6 +218,10 @@ body{
     box-sizing: border-box;
     text-align: left;
   }
+  .check-list{
+    margin-top: 20px;
+    
+  }
 
 
 
