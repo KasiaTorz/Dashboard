@@ -188,6 +188,9 @@ body{
 
   }
   /* css list to do*/
+  .display{
+    margin-left: 10px;
+  }
   .list-to-do{
     position: relative;
     width: 100%;
@@ -220,7 +223,8 @@ body{
   }
   .check-list{
     margin-top: 20px;
-    
+    margin-left:10px;
+
   }
 
 
