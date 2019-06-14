@@ -247,6 +247,8 @@ body{
   .label-list-to-do{
     font-size:15px;
     margin-bottom:10px;
+    margin-left:10px;
+    padding-left:5px;
   }
 
 
