@@ -236,6 +236,10 @@ body{
   .align-items-center{
     align-items: center;
   }
+  .form-control-custom{
+    visibility: hidden;
+    width: 1px;
+  }
 
 
 
