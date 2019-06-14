@@ -240,6 +240,10 @@ body{
     visibility: hidden;
     width: 1px;
   }
+  .input [type="checkbox"]{
+    box-sizing: border-box;
+    padding: 10px;
+  }
 
 
 
