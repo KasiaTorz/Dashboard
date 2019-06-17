@@ -257,6 +257,9 @@ body{
     padding-top: 5px;
     position: relative;
   }
+  #input ..form-control-custom + label{
+    
+  }
 
 
 
