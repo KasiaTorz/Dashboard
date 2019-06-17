@@ -257,8 +257,16 @@ body{
     padding-top: 5px;
     position: relative;
   }
-  #input ..form-control-custom + label{
-    
+  #input .form-control-custom + label{
+    font-size: 0.75 rem;
+    margin-bottom: 0;
+    margin-left: 0;
+    color: #999999;
+    padding-left: 25px;
+    padding-top: 2px;
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
   }
 
 
