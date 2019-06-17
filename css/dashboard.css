@@ -240,9 +240,19 @@ body{
     visibility: hidden;
     width: 1px;
   }
-  .input [type="checkbox"]{
+  .form-control-custom{
+    visibility: hidden;
+    width: 1px;
+
+  }
+  input .form-control-custom{
+    visibility: hidden;
+    width: 1px;
+  }
+  #input [type="checkbox"]{
     box-sizing: border-box;
     padding: 10px;
+    background-color:#464444;
   }
   .label-list-to-do{
     font-size:15px;
