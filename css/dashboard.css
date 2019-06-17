@@ -237,25 +237,20 @@ body{
     align-items: center;
   }
   .form-control-custom{
-    visibility: hidden;
+   color: #dddddd;
     width: 1px;
   }
-  .form-control-custom{
-    visibility: hidden;
-    width: 1px;
+ 
 
-  }
-  input .form-control-custom{
-    visibility: hidden;
-    width: 1px;
-  }
-  #input [type="checkbox"]{
+
+  #input {
     box-sizing: border-box;
     padding: 10px;
     background-color:#464444;
   }
   .label-list-to-do{
     font-size:15px;
+    font-weight: 400;
     margin-bottom:10px;
     margin-left:10px;
     padding-left:5px;
