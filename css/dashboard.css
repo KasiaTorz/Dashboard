@@ -273,6 +273,9 @@ body{
   }
 
   /* css pie chart*/
+  .pie-chart{
+    width: 100%;
+  }
 
 
 
