@@ -275,7 +275,9 @@ body{
   /* css pie chart*/
   .pie-chart{
     width: 100%;
+    margin-top:30px;
     padding-right: 15px;
+    padding-left: 15px;
   }
 
 
