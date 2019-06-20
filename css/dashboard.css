@@ -297,7 +297,9 @@ body{
   }
   .h4-pie-chart{
     font-size: 1.1rem;
-    
+    line-height: 1.1;
+    font-weight: 400;
+
   }
 
 
