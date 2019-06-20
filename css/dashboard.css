@@ -285,6 +285,8 @@ body{
   }
   .card project-progress{
     background: #FFFFFF;
+    margin:10px;
+    padding: 30px;
   }
 
 
