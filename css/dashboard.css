@@ -294,7 +294,10 @@ body{
     margin-bottom: 30px;
     border-radius: 0%;
     display: flex;
-
+  }
+  .h4-pie-chart{
+    font-size: 1.1rem;
+    
   }
 
 
