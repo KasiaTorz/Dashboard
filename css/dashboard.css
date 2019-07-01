@@ -326,9 +326,11 @@ body{
     pointer-events: none;
     visibility: hidden;
     z-index: -1;
-
+    word-wrap: break-word;
   }
-
+  .chartjs-size-monitor:after,.chartjs-size-monitor:before{
+    box-sizing: border-box;
+  } 
 
 
   https://demo.bootstrapious.com/dashboard/1-4-5/
