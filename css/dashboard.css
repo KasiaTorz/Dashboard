@@ -340,6 +340,19 @@ body{
   .chartjs-size-monitor:after,.chartjs-size-monitor:before{
     box-sizing: border-box;
   } 
+  .chartjs-size-monitor-expand{
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    overflow: hidden;
+    pointer-events: none;
+    visibility: hidden;
+    z-index: -1;
+  }
+  .chartjs-size-monitor-expand::before , .chartjs-size-monitor-expand::after{
+    box-sizing: border-box;
+  }
 
-
-  https://demo.bootstrapious.com/dashboard/1-4-5/
+  /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
