@@ -354,5 +354,8 @@ body{
   .chartjs-size-monitor-expand::before , .chartjs-size-monitor-expand::after{
     box-sizing: border-box;
   }
+  #expand{
+    position: absolute;
+  }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
