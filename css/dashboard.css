@@ -364,7 +364,7 @@ body{
     visibility: hidden;
   }
   #expand::after , #expand::before{
-    
+    box-sizing: border-box;
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
