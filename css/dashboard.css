@@ -356,6 +356,8 @@ body{
   }
   #expand{
     position: absolute;
+    width: 1000px;
+    
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
