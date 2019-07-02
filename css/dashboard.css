@@ -362,7 +362,9 @@ body{
     top: 0;
     pointer-events: none;
     visibility: hidden;
-
+  }
+  #expand::after , #expand::before{
+    
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
