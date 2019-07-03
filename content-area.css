@@ -55,6 +55,10 @@ light font 2:#A5ADBA;
     margin-bottom: 15px;
 }
 
+#content4{
+    background-color:#f1f1f1;
+    padding: 50px 10px;
+}
 .col-md-2{
     width: 50%;
     padding: 0 15px;
