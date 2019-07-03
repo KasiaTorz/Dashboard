@@ -36,7 +36,19 @@ light font 2:#A5ADBA;
     border-radius: 5px;
     padding: 0px;
     overflow:auto; 
-
+}
+.card-3{
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #58b4ef;
+    background-clip: border-box;
+    border: 1px solid rgba(221, 54, 54, 0.1);
+    border-radius: .25rem;
+    margin-right: 200px;
+    margin-left: 200px;
+    width: 100px;
+    height: 100px;   
 }
 .cards{
     overflow: auto;
