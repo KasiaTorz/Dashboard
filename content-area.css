@@ -53,6 +53,8 @@ light font 2:#A5ADBA;
 .cards{
     overflow: auto;
     margin-bottom: 15px;
+    color: black;
+    text-align: center;
 }
 
 #content4{
