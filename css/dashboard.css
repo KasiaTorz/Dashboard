@@ -366,5 +366,8 @@ body{
   #expand::after , #expand::before{
     box-sizing: border-box;
   }
+  .chartjs-size-monitor-shrink{
+    position: absolute;
+  }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
