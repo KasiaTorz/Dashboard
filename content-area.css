@@ -37,24 +37,30 @@ light font 2:#A5ADBA;
     padding: 0px;
     overflow:auto; 
 }
-.card-3{
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #58b4ef;
-    background-clip: border-box;
-    border: 1px solid rgba(221, 54, 54, 0.1);
-    border-radius: .25rem;
-    margin-right: 200px;
-    margin-left: 200px;
-    width: 100px;
-    height: 100px;   
+#content4{
+        min-width: 0;
+        word-wrap: break-word;
+        color: #ed2cf2;
+        border: 1px solid rgba(221, 54, 54, 0.1);
+        border-radius: .25rem;
+        margin-right: 336px;
+        margin-left: 369px;
+        width: 209px;
+        height: 300px;
+        margin-top: 300px;
+        margin-bottom: 400px;
 }
 .cards{
     overflow: auto;
     margin-bottom: 15px;
     color: black;
     text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: 0.2s;
 }
 
 #content4{
