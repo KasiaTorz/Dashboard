@@ -128,20 +128,20 @@
 
     </section>
     <section id="content4">
-        <div id="header">Header</div> 
+        <div id="contentDiv">ContentDiv</div> 
     </section>
 
 
     <script>
-        window.onscroll= function(){ scrollFunction()};
+       window.onscroll = function() {scrollFunction()};
 
-        function scrollFunction(){
-            if (document.body.scrollTop > 50 || document.documentElement.scrollTop >50){
-                document.getElementById("content4").style.fontSize ="30px";
-            }else{
-                document.getElementById("content4").style.fontSize = "90px";
-            }
+        function scrollFunction() {
+        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+            document.getElementById("contentDiv").style.fontSize = "30px";
+        } else {
+            document.getElementById("contentDiv").style.fontSize = "90px";
         }
+        } 
     </script>
     <!--JS bootstrap-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
