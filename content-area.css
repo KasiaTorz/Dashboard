@@ -37,6 +37,7 @@ light font 2:#A5ADBA;
     padding: 0px;
     overflow:auto; 
 }
+/* header example +css to check scroll js*/
 #content4{
         min-width: 0;
         word-wrap: break-word;
@@ -49,7 +50,10 @@ light font 2:#A5ADBA;
         margin-top: 300px;
         margin-bottom: 400px;
         background:rgb(197,233,173)none repeat scroll;
-
+}
+#header{
+    background-color:#f1f1f1;
+    
 }
 .cards{
     overflow: auto;
