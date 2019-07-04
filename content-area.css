@@ -57,7 +57,10 @@ light font 2:#A5ADBA;
     color: #494445;
     text-align: center;
     font-size:25px;
-
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    
 }
 .cards{
     overflow: auto;
