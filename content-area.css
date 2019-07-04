@@ -40,7 +40,6 @@ light font 2:#A5ADBA;
 #content4{
         min-width: 0;
         word-wrap: break-word;
-        color: #ed2cf2;
         border: 1px solid rgba(221, 54, 54, 0.1);
         border-radius: .25rem;
         margin-right: 336px;
@@ -49,6 +48,8 @@ light font 2:#A5ADBA;
         height: 300px;
         margin-top: 300px;
         margin-bottom: 400px;
+        background:rgb(197,233,173)none repeat scroll;
+
 }
 .cards{
     overflow: auto;
