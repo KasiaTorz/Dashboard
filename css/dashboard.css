@@ -373,6 +373,7 @@ body{
   #shrink{
     position: absolute;
     width: 200%;
+    height: 200%;
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
