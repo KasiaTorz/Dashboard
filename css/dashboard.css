@@ -376,6 +376,8 @@ body{
     height: 200%;
     left: 0;
     top: 0;
+    pointer-events: none;
+    visibility: hidden;
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
