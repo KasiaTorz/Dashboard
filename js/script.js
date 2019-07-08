@@ -3,4 +3,5 @@ $(document).ready(function(){992<$(window).outerWidth()&&$("nav.side-navbar").mC
 
 window.onload = function(){
     var canvas= document.getElementById("pieChart");
+    var ctx = canvas.getContext("2d");
 }
