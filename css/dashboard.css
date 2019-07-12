@@ -285,6 +285,8 @@ body{
   /* css pie chart*/
   #imgPChart{
     height: 200px;
+    width: 200px;
+    align-items: center;
   }
   .pie-chart{
     width: 100%;
