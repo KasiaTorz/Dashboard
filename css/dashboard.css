@@ -335,7 +335,9 @@ body{
 
 
   /* line-chart style*/
-
+  .align-self-report{
+    
+  }
   .card-sales-report{
     background:#ffffff;
     padding: 30px;
