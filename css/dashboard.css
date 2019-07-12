@@ -344,6 +344,7 @@ body{
     border: 0 solid #eee;
     border-radius: 0;
     margin-bottom: 30px;
+    margin-top: 2px;
     position: relative;
     display: flex;
     flex-direction: column;
