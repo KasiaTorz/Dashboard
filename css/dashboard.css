@@ -326,7 +326,8 @@ body{
     margin-top: -23px;
     font-size: 1.1rem;
     margin-bottom: .5rem;
-
+    font-weight: 400;
+  
   }
   .pie-chart-d{
     position: relative;
