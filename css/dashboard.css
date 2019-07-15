@@ -322,6 +322,9 @@ body{
    word-wrap: break-word;
    line-height: 1.5;
   }
+  .display h4 lineChart{
+    margin-top: -23px;
+  }
   .pie-chart-d{
     position: relative;
     width: 300px;
