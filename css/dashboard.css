@@ -370,6 +370,7 @@ body{
   .statisitic{
     display: block;
     box-sizing: border-box;
+    font-size: 1rem;
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
