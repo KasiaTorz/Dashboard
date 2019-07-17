@@ -369,6 +369,7 @@ body{
   /*STATISTIC SECTION*/
   .statisitic{
     display: block;
+    box-sizing: border-box;
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
