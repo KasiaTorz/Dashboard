@@ -367,5 +367,8 @@ body{
   }
 
   /*STATISTIC SECTION*/
+  .statisitic{
+    display: block;
+  }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
