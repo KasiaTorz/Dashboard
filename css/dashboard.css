@@ -387,8 +387,9 @@ body{
   .statisitic-s{
     flex-wrap: wrap;
     margin-right: -15px;
+    margin-left: -15px;
   }
   .col-statistic-s{
-    
+    position: relative;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
