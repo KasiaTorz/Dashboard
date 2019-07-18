@@ -397,5 +397,6 @@ body{
     height: auto;
     margin-bottom: 30px;
     background-color: #FFFFFF;
+    border: 0 solid #eee;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
