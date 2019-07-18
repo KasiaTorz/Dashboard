@@ -384,4 +384,7 @@ body{
   .container-fluid::after, ::before{
     box-sizing: border-box;
   }
+  .statisitic-s{
+    flex-wrap: wrap;
+  }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
