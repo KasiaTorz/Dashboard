@@ -386,5 +386,6 @@ body{
   }
   .statisitic-s{
     flex-wrap: wrap;
+    margin-right: -15px;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
