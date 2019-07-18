@@ -381,7 +381,7 @@ body{
     padding-left: 15px;
     margin-right: auto;  
   }
-  ..container-fluid::after, ::before{
+  .container-fluid::after, ::before{
     box-sizing: border-box;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
