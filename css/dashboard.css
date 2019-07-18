@@ -391,5 +391,6 @@ body{
   }
   .col-statistic-s{
     position: relative;
+    width: 100%;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
