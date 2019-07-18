@@ -393,4 +393,9 @@ body{
     position: relative;
     width: 100%;
   }
+  .card-statistic-s{
+    height: auto;
+    margin-bottom: 30px;
+    background-color: #FFFFFF;
+  }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
