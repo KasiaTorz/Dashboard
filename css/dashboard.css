@@ -404,5 +404,6 @@ body{
     box-sizing: border-box;
     text-align: center;
     word-wrap: break-word;
+    font-weight: 400;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
