@@ -402,5 +402,6 @@ body{
   .icon-statistic{
     font-size: 3.5rem;
     box-sizing: border-box;
+    text-align: center;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
