@@ -401,5 +401,6 @@ body{
   }
   .icon-statistic{
     font-size: 3.5rem;
+    box-sizing: border-box;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
