@@ -420,6 +420,7 @@ body{
   }
   .fas fa-chart-line{
     transform: translateY(4px);
+    display: inline-block;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
