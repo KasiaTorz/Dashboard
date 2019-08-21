@@ -421,6 +421,9 @@ body{
   .fas fa-chart-line{
     transform: translateY(4px);
     display: inline-block;
+    box-sizing: border-box;
+    font-size: 2.5em;
+
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
