@@ -418,5 +418,8 @@ body{
     line-height: 1.5;
     color: #212529;
   }
+  .fas fa-chart-line{
+    transform: translateY(4px);
+  }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
