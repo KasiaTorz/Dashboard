@@ -439,6 +439,9 @@ body{
     font-size: 0.7em;
     color: #33b35a;
   }
+  strong{
+    font-weight: bolder;
+  }
 
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
