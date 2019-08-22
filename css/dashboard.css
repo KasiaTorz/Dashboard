@@ -436,7 +436,7 @@ body{
     line-height: 1.5;
   }
   .text-statisitic{
-    font-size: 0.7em;
+    font-size: 0.6em;
     color: #33b35a;
   }
   strong{
@@ -444,7 +444,6 @@ body{
     box-sizing: border-box;
     text-align: center;
     word-wrap: break-word;
-
   }
 
   
