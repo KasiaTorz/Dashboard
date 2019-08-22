@@ -430,7 +430,8 @@ body{
     font-size: 0.5em;
     color: #525353;
     box-sizing: border-box;
-    
+    text-align: center;
+    word-wrap: break-word;
   }
 
   
