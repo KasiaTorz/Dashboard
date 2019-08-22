@@ -427,7 +427,8 @@ body{
     word-wrap: break-word;
   }
   .number{
-    
+    font-size: 0.5em;
+    color: #525353;
   }
 
   
