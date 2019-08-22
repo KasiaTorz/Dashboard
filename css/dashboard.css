@@ -446,7 +446,9 @@ body{
     word-wrap: break-word;
   }
   .statisitic-p{
-    
+    font-size: 15px;
+    text-align: left;
+    font-weight: 400;
   }
 
   
