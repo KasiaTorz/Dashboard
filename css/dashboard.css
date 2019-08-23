@@ -396,6 +396,7 @@ body{
   .card-statistic-s{
     height: auto;
     margin-bottom: 30px;
+    margin-top: 30px;
     background-color: #FFFFFF;
     border: 1 solid #cfcaca;
     box-shadow: 1px 1 px 2px #cfcaca; 
