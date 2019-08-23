@@ -397,7 +397,7 @@ body{
     height: auto;
     margin-bottom: 30px;
     background-color: #FFFFFF;
-    border: 0 solid #eee;
+    border: 1 solid #cfcaca;
   }
   .icon-statistic{
     font-size: 3.5rem;
