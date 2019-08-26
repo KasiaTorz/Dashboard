@@ -455,6 +455,10 @@ body{
     word-wrap: break-word;
     box-sizing: border-box;
   }
+  .monthly-card{
+    height: auto;
+    margin-bottom: 30px;
+  }
 
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
