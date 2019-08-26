@@ -460,6 +460,8 @@ body{
     margin-bottom: 30px;
     padding: 20px;
     text-align: center;
+    background-color: #eee;
+    border: 1px solid rgb(175, 175, 175);
   }
 
   
