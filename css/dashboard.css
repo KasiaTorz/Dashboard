@@ -457,7 +457,8 @@ body{
   }
   .monthly-card{
     height: auto;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    margin-top: 31px;
     padding: 20px;
     text-align: center;
     background-color: #ffffff;
@@ -466,7 +467,8 @@ body{
   }
   .h4-monthly{
     margin-bottom: 20px;
-    
+    font-size: 20px;
+
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
