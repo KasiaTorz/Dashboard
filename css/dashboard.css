@@ -456,7 +456,9 @@ body{
     box-sizing: border-box;
   }
   .col-monthly{
-    
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
   }
   .monthly-card{
     height: auto;
