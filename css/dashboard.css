@@ -455,6 +455,9 @@ body{
     word-wrap: break-word;
     box-sizing: border-box;
   }
+  .col-monthly{
+    
+  }
   .monthly-card{
     height: auto;
     margin-bottom: 50px;
