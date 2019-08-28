@@ -482,6 +482,9 @@ body{
   }
   .row-monthly{
     align-items: center !important;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
