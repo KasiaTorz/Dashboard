@@ -480,5 +480,8 @@ body{
     font-weight: 400;
     color: #212529;
   }
+  .row-monthly{
+    align-items: center !important;
+  }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
