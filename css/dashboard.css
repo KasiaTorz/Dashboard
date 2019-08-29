@@ -500,6 +500,9 @@ body{
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
+    box-sizing:border-box;
+    text-align: center;
+    word-wrap: break-word;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
