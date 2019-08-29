@@ -507,5 +507,9 @@ body{
     line-height: 1.5;
     color:#212529;
   }
+  .gmpc{
+    height: 200px;
+    width: 200px;
+  }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
