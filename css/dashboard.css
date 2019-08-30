@@ -538,5 +538,19 @@ body{
     text-align: center;
     margin-left: 100px;
   }
+  .col-currently{
+    padding-bottom:20px;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.5;
+    columns: #212521;
+  }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
