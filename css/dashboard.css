@@ -525,7 +525,7 @@ body{
     position: absolute;
     width: 100%;
     top: 50%;
-    left: 200%;
+    left:80%;
     transform: translate(-50%, -50%);
     text-align: center;
     box-sizing: border-box; 
@@ -536,7 +536,7 @@ body{
     border: none;
     background-color: transparent;
     text-align: center;
-    margin-left: 610px;
+    margin-left: 100px;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
