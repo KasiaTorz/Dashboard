@@ -462,6 +462,7 @@ body{
     padding-left: 15px;
   }
   .monthly-card{
+    box-sizing: border-box;
     height: auto;
     margin-bottom: 50px;
     margin-top: 31px;
