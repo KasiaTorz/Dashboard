@@ -539,8 +539,6 @@ body{
     margin-left: 100px;
   }
   .col-currently{
-    padding-bottom:20px;
-  
     position: relative;
     padding-right: 15px;
     padding-left: 15px;
@@ -554,10 +552,15 @@ body{
     columns: #212521;
   }
   .currenthly-text{
+
     display: block;
-    font-size: 45px;
+    font-size: 25px;
     color: #33b35a;
     font-weight: bold;
+    text-align: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
