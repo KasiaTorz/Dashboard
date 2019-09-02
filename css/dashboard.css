@@ -552,7 +552,7 @@ body{
     columns: #212521;
   }
   .currenthly-text{
-
+    box-sizing: border-box;
     display: block;
     font-size: 25px;
     color: #33b35a;
