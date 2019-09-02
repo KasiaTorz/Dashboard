@@ -553,5 +553,11 @@ body{
     line-height: 1.5;
     columns: #212521;
   }
+  .currenthly-text{
+    display: block;
+    font-size: 45px;
+    color: #33b35a;
+    font-weight: bold;
+  }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
