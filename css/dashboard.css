@@ -564,7 +564,8 @@ body{
     line-height: 1.5;
   }
   .currenthly-small{
-    
+    font-size: 0.85rem;
+    font-weight: 300;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
