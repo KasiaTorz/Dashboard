@@ -566,6 +566,8 @@ body{
   .currenthly-small{
     font-size: 0.85rem;
     font-weight: 300;
+    color: #b0b2b4;
+    box-sizing: border-box;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
