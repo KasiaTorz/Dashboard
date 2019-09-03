@@ -564,7 +564,7 @@ body{
     line-height: 1.5;
   }
   .currenthly-small{
-    font-size: 0.85rem;
+    font-size: 0.85em;
     font-weight: 300;
     color: #b0b2b4;
     box-sizing: border-box;
@@ -573,7 +573,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
   }
   .currenthly-span{
-    
+    font-size: 0.95em;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
