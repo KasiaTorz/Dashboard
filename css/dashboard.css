@@ -574,6 +574,13 @@ body{
   }
   .currenthly-span{
     font-size: 0.95em;
+    color: #525353;
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+    word-wrap: break-word;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
