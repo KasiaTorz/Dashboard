@@ -512,7 +512,7 @@ body{
     height: 200px;
     width: 350px;
     border-right: 1px solid #eee;
-    border-bottom: 1px solid #eee;
+    /*border-bottom: 1px solid #eee;*/
     padding-bottom: 20px !important;
     padding: 0;
     position: relative;
