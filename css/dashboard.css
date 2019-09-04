@@ -586,6 +586,8 @@ body{
   .currenthly-p{
     margin-top: 10px;
     color: #888888;
+    font-size: 0.8 em;
+    box-sizing: border-box;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
