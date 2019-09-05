@@ -613,7 +613,15 @@ body{
     color: #212529;
   }
   .h-activ{
-    
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    font-family: inherit;
+    font-weight: 700;
+    line-height: 1.1;
+    color: inherit;
+    font-weight: 400 !important;
+    box-sizing: border-box;
+    word-wrap: break-word;
   }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
