@@ -624,6 +624,14 @@ body{
     word-wrap: break-word;
   }
   .numb-activ{
-    
+    font-size: 2.5em;
+    font-weight: 300;
+    color: #525353;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    text-align:left;
+
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
