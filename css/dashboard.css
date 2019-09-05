@@ -591,5 +591,26 @@ body{
     text-align: center;
     word-wrap: break-word;
   }
+  /* user activity css*/
+  .user-activ{
+    margin-bottom: 0;
+    height:auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 0 solid #eee;
+    border-radius: 0;
+    box-shadow: 1px 1px 2px #eee;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+  }
   
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
