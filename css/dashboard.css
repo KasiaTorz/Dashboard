@@ -641,6 +641,8 @@ body{
     line-height: 1.1;
     color: #212521;
     font-weight: 400 !important;
+    box-sizing: border-box;
+    word-wrap: break-word;
 
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
