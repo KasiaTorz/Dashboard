@@ -659,6 +659,19 @@ body{
   }
   .progress-activ{
     width: 25%;
-    
+    background: #33b35a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #FFFFFF;
+    text-align: center;
+    white-space: nowrap;
+    transition: .6s ease;
+    box-sizing: border-box;
+    font-size: .75rem;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;   
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
