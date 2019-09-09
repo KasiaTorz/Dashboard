@@ -643,6 +643,10 @@ body{
     font-weight: 400 !important;
     box-sizing: border-box;
     word-wrap: break-word;
+  }
 
+  .progress-activ{
+    width: 25%;
+    
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
