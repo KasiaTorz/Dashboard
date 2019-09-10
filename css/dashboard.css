@@ -695,6 +695,8 @@ body{
   .span-activ{
     display: inline-block;
     box-sizing: border-box;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
 
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
