@@ -708,5 +708,6 @@ body{
     color: #33b35a;
     font-size: 2em;
     font-weight: bold;
+    box-sizing: border-box;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
