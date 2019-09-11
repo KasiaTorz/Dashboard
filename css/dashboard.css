@@ -704,5 +704,6 @@ body{
   }
   .strong-activ{
     display: block;
+    text-transform: uppercase;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
