@@ -713,5 +713,7 @@ body{
   }
   .page-statistic-right{
     box-sizing: border-box;
+    word-wrap: break-word;
+
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
