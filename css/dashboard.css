@@ -543,11 +543,13 @@ body{
   }
   .col-currently{
     position: relative;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 1px;
+    padding-left:130px;
+    
     box-sizing: border-box;
     text-align: center;
     word-wrap: break-word;
+    flex: 0 0 50%;
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     font-weight: 400;
