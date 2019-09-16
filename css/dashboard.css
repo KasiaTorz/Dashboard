@@ -544,7 +544,7 @@ body{
   .col-currently{
     position: relative;
     padding-right: 1px;
-    padding-left:130px;
+    padding-left:150px;
     
     box-sizing: border-box;
     text-align: center;
@@ -603,7 +603,7 @@ body{
     background-color: #ffffff;
     border: 0 solid #eee;
     border-radius: 0;
-    box-shadow: 1px 1px 2px #eee;
+    box-shadow: 1px 1px 2px rgb(155, 153, 153);
     position: relative;
     display: flex;
     flex-direction: column;
