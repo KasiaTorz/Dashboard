@@ -730,5 +730,6 @@ body{
     margin-bottom: 96px !important;
     margin-top: 85px !important;
     display: block;
+    box-sizing: border-box;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
