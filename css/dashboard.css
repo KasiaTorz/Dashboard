@@ -729,5 +729,6 @@ body{
   .mb-30px{
     margin-bottom: 96px !important;
     margin-top: 85px !important;
+    display: block;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
