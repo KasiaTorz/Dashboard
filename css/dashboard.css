@@ -738,7 +738,8 @@ body{
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+  }
+  .upadate-container ::after ::before{
     box-sizing: border-box;
-
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
