@@ -732,7 +732,8 @@ body{
     display: block;
     box-sizing: border-box;
   }
-  .upadte-container{
-    
+  .upadate-container{
+    width: 100%;
+    padding-right: 15px;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
