@@ -735,5 +735,7 @@ body{
   .upadate-container{
     width: 100%;
     padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
   }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
