@@ -744,4 +744,12 @@ body{
   .upadate-container ::after ::before{
     box-sizing: border-box;
   }
+  .update-row{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  box-sizing: border-box;
+
+  }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
