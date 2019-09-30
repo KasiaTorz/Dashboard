@@ -598,6 +598,7 @@ body{
   /* user activity css*/
   .user-activ{
     margin-bottom: 51px;
+    margin-top: 35px;
     height:auto;
     padding: 20px;
     background-color: #ffffff;
