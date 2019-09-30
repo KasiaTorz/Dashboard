@@ -756,4 +756,16 @@ body{
   line-height: 1.5;
   color: #212529;
   }
+  .col-md-12-updates{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    font-family: "Roboto",sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+  }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
