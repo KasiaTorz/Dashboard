@@ -597,7 +597,7 @@ body{
   }
   /* user activity css*/
   .user-activ{
-    margin-bottom: 0;
+    margin-bottom: 51px;
     height:auto;
     padding: 20px;
     background-color: #ffffff;
