@@ -786,4 +786,8 @@ body{
     line-height: 1.5;
     color: #212529;    
   }
+  .recent-updated ::after, ::before{
+    box-sizing: border-box;
+  }
+
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
