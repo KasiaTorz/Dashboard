@@ -801,5 +801,8 @@ body{
     margin-bottom: 0;
     color: inherit;
   }
+  .card-header::before, ::after{
+    box-sizing: border-box;
+  }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
