@@ -798,6 +798,8 @@ body{
     padding: 1rem 1.25rem;
     background-color: #fff;
     border-bottom: 1px solid #eee;
+    margin-bottom: 0;
+    color: inherit;
   }
 
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
