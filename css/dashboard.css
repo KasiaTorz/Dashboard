@@ -768,4 +768,10 @@ body{
     line-height: 1.5;
     color: #212529;
   }
+  .recent-updated{
+    background-color: #fff;
+    border: 0 solid #eee;
+    border-radius: 0;
+    margin-bottom: 30px;
+  }
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
