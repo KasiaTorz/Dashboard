@@ -808,5 +808,8 @@ body{
   .card-header::before, ::after{
     box-sizing: border-box;
   }
+  .align-items-center{
+    align-items: center !important;
+  }
 /* dalej robic style id upadates header w klasach*/
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
