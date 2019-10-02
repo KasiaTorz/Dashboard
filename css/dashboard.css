@@ -663,9 +663,9 @@ body{
     columns: #212529;
 
   }
-  .progress-activ{
+  .progressbar-activ{
     width: 25%;
-    background: #33b35a;
+    background: #0cc042 !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
