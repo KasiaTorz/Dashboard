@@ -811,5 +811,9 @@ body{
   .align-items-center{
     align-items: center !important;
   }
+  .justify-content-between{
+    justify-content: space-between !important;
+  }
+  
 /* dalej robic style id upadates header w klasach*/
   /*https://demo.bootstrapious.com/dashboard/1-4-5/*/
